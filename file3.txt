@@ -1,0 +1,4 @@
+git push -u origin master
+git init
+lst
+git add file1.txt
