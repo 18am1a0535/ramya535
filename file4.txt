@@ -1,0 +1,2 @@
+git config --global user.name"ramya"
+git cinfig --global user.email"18am1a0535@svrec.ac.in"
